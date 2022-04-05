@@ -7,7 +7,7 @@ finestra personalizzata
 ### Esercizio 2###
 
 1 - creare una pagina html che contenga un tag button con un id assegnato    
-2 - creare un box con il tag div che contiene un tag p che a sua volta contiene il messaggio. Questo box non è inizialmente visibile.    
+2 - creare un box con il tag div che contiene un tag p che a sua volta contiene il messaggio. Questo box non e inizialmente visibile.    
 3 - creare un file javascript contenente il codice attraverso il quale cliccando sul bottone il box che contiene il messaggio   
 4 - il codice javascript deve essere contenuto in un file esterno    
 
